@@ -26,5 +26,6 @@ Con tu ayuda podremos regalar tres certificados JavaScript a la comunidad, y adq
 
 - [**BuyMeaCoffee**](https://www.buymeacoffee.com/frontendclub)
 - [**Paypal**](https://paypal.me/xantosromero?country.x=PE&locale.x=es_XC)
+- [**Patreon**](patreon.com/frontendclubpatreon)
 
 > _“Yo puedo hacer cosas que tú no puedes, tú puedes hacer cosas que yo no puedo; juntos podemos hacer grandes cosas”_. — Madre **Teresa de Calcuta.**
