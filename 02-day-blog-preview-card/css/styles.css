@@ -1,0 +1,45 @@
+/* -----------------
+Tabla de contenidos:
+--------------------
+1. Fuente ......................... 11
+2. Variables ...................... 15
+3. Estilos generales .............. 33
+-------------------- */
+
+
+/* ----- Fuente ----- */
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap');
+
+
+/* ----- Variables ----- */
+* {
+	/* --- colores primarios --- */
+	--yellow-color: hsl(47, 88%, 63%);
+
+	/* --- colores neutrales --- */
+	--white-color: hsl(0, 0%, 100%);
+	--grey-color: hsl(0, 0%, 50%);
+	--black-color: hsl(0, 0%, 7%);
+
+	--primary-font-family: 'Figtree', sans-serif;	
+	--lh-text: 22px;
+	--font-size: 16rem;
+}
+
+
+/* ----------------------------- */
+/* ----- Estilos generales ----- */
+/* ----------------------------- */
+body {
+	font-family: var(--primary-font-family);
+	background-color: var(--yellow-color);
+	color: var(--black-color);
+	font-size: var(--font-size);
+	line-height: var(--lh-text);
+	font-size: var(--font-size);
+}
+
+/* ------------------------
+Diseño: Frontend Mentor🎨
+Desarrollo: Frontend Club🔥
+--------------------------- */
