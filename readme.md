@@ -53,7 +53,7 @@ Link de la solución:
 
 ## Ranking
 
-Tabla de posiciones actualizado al lunes 08/01/2024.🔥
+Tabla de posiciones actualizado al martes 09/01/2024.🔥
 | Pos. | Nombre | Proyectos | Puntos | Links | País |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | Arnaldo Muñoz | 2 | 6 | [Link1](https://profile-card-arni.netlify.app/), [Link2](https://blog-card-arni.netlify.app/) | Bolivia |
