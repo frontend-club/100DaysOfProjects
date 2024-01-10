@@ -1,54 +1,172 @@
 /* -----------------
 Tabla de contenidos:
 --------------------
-1. Fuente ......................... 12
-2. Variables ...................... 16
-3. Estilos generales .............. 27
-4. Créditos ....................... 37
+1. Fuente ......................... 14
+2. Variables ...................... 17
+3. Estilos generales .............. 36
+4. Estilos header ................. 65
+5. Estilos body ................... 76
+4. Estilos footer ................. 93
+5. Media queries .................. 128
 -------------------- */
-
 
 /* ----- Fuente ----- */
 @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 
-
 /* ----- Variables ----- */
 * {
-	--primary-font-family: 'Montserrat', sans-serif;
+	--primary-font-family: "Montserrat", sans-serif;
+	--font-size: 1rem;
+	--lh-text: 1.5rem;
+
 	--body-bg-color: #212020;
 	--card-bg-color: #242323;
+	--tag-color: #1e1d1d;
+	--footer-bg-color: #1f1e1e;
 	--text-color: #c2c2c2;
-	--fb-bg-color: #456da4;
-	--li-bg-color: #0984c6;
-	--ig-bg-color: #006184;
-	--lh-text: 22px;
-}
 
+	--fb-bg-color: #456da4;
+	--ig-bg-color: #ffffff;
+	--li-bg-color: #0984c6;
+}
 
 /* ----------------------------- */
 /* ----- Estilos generales ----- */
 /* ----------------------------- */
 body {
 	font-family: var(--primary-font-family);
+	font-size: var(--font-size);
+	line-height: var(--lh-text);
 	background-color: var(--body-bg-color);
 	color: var(--text-color);
-	line-height: var(--lh-text);
+	text-align: center;
+}
 
+.container {
+	width: 100vw;
 	height: 100vh;
 
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	flex-direction: column;
+	overflow: hidden;
 }
 
-img {
-	width: 150px;
+.card {
+	width: 90%;
+	max-width: 75rem;
+
+	background-color: var(--card-bg-color);
+	border-radius: 10px;
+	box-shadow: 0 13px 17px hsla(0, 2%, 11%, 25%);
+}
+
+/* ----- Estilos header ----- */
+.card__header {
+	padding: 40px 0 10px;
+}
+
+.card__image {
+	width: 120px;
 	border-radius: 50%;
+	border: 2px solid var(--text-color);
 }
 
+/* ----- Estilos body ----- */
+.card__title {
+	font-size: 1.4rem;
+}
 
-/* ------------------------
-Diseño: UIDesign Daily🎨
-Desarrollo: Frontend Club🔥
---------------------------- */
+.card__tag {
+	display: inline-block;
+	padding: 7px 14px;
+	font-size: 14px;
+	background-color: var(--tag-color);
+	border-radius: 1.875rem;
+}
+
+.card__copy {
+	padding: 0 15px 0;
+}
+
+/* ----- Estilos footer ----- */
+.card__footer {
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	background-color: var(--footer-bg-color);
+}
+
+.list {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.list__item {
+	padding: 20px 5px;
+}
+
+.list--fb {
+	color: var(--fb-bg-color);
+	font-size: 24px;
+}
+
+.list--ig {
+	color: var(--ig-bg-color);
+	font-size: 24px;
+}
+
+.list--li {
+	color: var(--li-bg-color);
+	font-size: 24px;
+}
+
+/* ----- iPads & tablets ----- */
+@media screen and (min-width: 481px) {
+	.card {
+		width: 80%;
+	}
+
+	.card__title {
+		font-size: 1.6rem;
+	}
+
+	.card__tag {
+		font-size: 1rem;
+	}
+}
+
+/* ----- Laptops ----- */
+@media screen and (min-width: 769px) {
+	.card {
+		width: 45%;
+	}
+
+	.card__header {
+		padding: 2.5rem 0 1rem;
+	}
+
+	.card__title,
+	.card__copy {
+		padding: 0 0 1.5rem 0;
+	}
+}
+
+/* ----- Desktops ----- */
+@media screen and (min-width: 1025px) {
+	.card {
+		width: 25%;
+	}
+
+	.card__header {
+		padding: 2rem 0 0;
+	}
+
+	.card__title {
+		font-size: 1.2rem;
+		padding: 10px 0;
+	}
+}
