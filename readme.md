@@ -65,7 +65,7 @@ Tabla de posiciones actualizado al martes 09/01/2024.🔥
 | 7 | Soliz Gary | 3 | 9 | [Link1](https://01-profile-card.netlify.app/), [Link2](https://blogpreviewcardgs.netlify.app/), [Link3](https://03-day-product-info.netlify.app/) | Bolivia |
 | 8 | Ricardo Mejía | 2 | 6 | [Link1](https://ramtako8922.github.io/profile-card/), [Link2](https://ramtako8922.github.io/blog-preview/) | Colombia |
 | 9 | Mati Giraudo | 2 | 6 | [Link2](https://matias-giraudo-day2.netlify.app/), [Link3](https://matias-giraudo-day3.netlify.app/) | Argentina |
-| 10 | Eduardo Martinez | 2 | 6 | [Link2](https://chimerical-cocada-086c58.netlify.app/), [Link3](https://eduaromp.github.io/100daysOfProjects/) | ? |
+| 10 | Eduardo Martinez | 2 | 6 | [Link2](https://chimerical-cocada-086c58.netlify.app/), [Link3](https://eduaromp.github.io/100daysOfProjects/) | Venezuela |
 | 11 | Code Avl | 2 | 6 | [Link1](https://avl-vins.github.io/01-Day-Profile-Card/), [Link2](https://avl-vins.github.io/02-Day-Blog-Preview-Card/) | Perú |
 | 12 | Alexis Piguave | 1 | 3 | [Link3](https://alexispit.github.io/Day3/) | Ecuador |
 
