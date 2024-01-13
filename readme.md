@@ -66,7 +66,7 @@ Tabla de posiciones actualizado al viernes 12/01/2024.🔥
 | 8 | Jefferson Pérez | 4 | 12 | [Link1](https://github.com/SevenStark/100proyectos_100dias), [Link2](https://github.com/SevenStark/100proyectos_100dias/tree/master/Day%202), [Link3](https://github.com/SevenStark/100proyectos_100dias/tree/master/Day%203), [Link5](https://github.com/SevenStark/100proyectos_100dias/blob/master/Day%204/index.html) | Colombia |
 | 9 | Eduardo Martinez | 4 | 12 | [Link2](https://chimerical-cocada-086c58.netlify.app/), [Link3](https://eduaromp.github.io/100daysOfProjects/), [Link4](https://eduaromp.github.io/reto04/), [Link5](https://eduaromp.github.io/reto05/) | Venezuela |
 | 10 | Alexis Piguave | 3 | 9 | [Link3](https://alexispit.github.io/Day3/), [Link4](https://alexispit.github.io/Day4/), [Link5](https://alexispit.github.io/Day5/) | Ecuador |
-| 11 | Ricardo Mejía | 2 | 6 | [Link1](https://ramtako8922.github.io/profile-card/), [Link2](https://ramtako8922.github.io/blog-preview/) | Colombia |
+| 11 | Ricardo Mejía | 3 | 9 | [Link1](https://ramtako8922.github.io/profile-card/), [Link2](https://ramtako8922.github.io/blog-preview/), [Link4](https://ramtako8922.github.io/04-day-analytics/) | Colombia |
 | 12 | Mati Giraudo | 2 | 6 | [Link2](https://matias-giraudo-day2.netlify.app/), [Link3](https://matias-giraudo-day3.netlify.app/) | Argentina |
 | 13 | Miguel Ramos Alarcon | 1 | 3 | [Link5](https://miguelramosalarcon.github.io/100DaysOfProjects/05-day-product-preview-card-component/) | Perú |
 
