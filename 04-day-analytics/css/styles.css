@@ -1,0 +1,48 @@
+/* -----------------
+Tabla de contenidos:
+--------------------
+1. Fuente ................ 11
+2. Variables ............. 17
+3. Estilos generales ..... 32
+-------------------- */
+
+
+/* ----- Fuente ----- */
+@import url("https://fonts.googleapis.com/css?family=Merryweather&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+
+/* ----- Variables ----- */
+* {
+	--title-font-family: 'Merryweather', sans-serif;
+	--body-font-family: 'Poppins', sans-serif;
+
+	--body-bg-color: #D2DDF6;
+	--card-bg-color: #F6F9FF;
+	--text-color: #12163C;
+
+	--blue-color-1: #96B3FF;
+	--blue-color-2: #6792FF;
+	--blue-color-3: #4473EA;
+	--blue-color-4: #1A52E1;
+
+	--fs-text: 1rem;
+	--lh-text: 22px;
+}
+
+
+/* ----------------------------- */
+/* ----- Estilos generales ----- */
+/* ----------------------------- */
+body {
+	font-family: var(--primary-font-family);
+	background-color: var(--body-bg-color);
+	color: var(--text-color);
+	font-size: var(--fs-text);
+	line-height: var(--lh-text);
+
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+
