@@ -64,7 +64,6 @@ Tabla de posiciones actualizado al sábado 13/01/2024.🔥
 | 6 | Sergio A. Hurtado | 5 | 15 | [Link1](https://profilecard-100days-sergioh.netlify.app/), [Link2](https://blogcard-sergio.netlify.app/), [Link3](https://03cardproductinfo-sergio.netlify.app/), [Link4](https://04analytics-sergio.netlify.app/), [Link5](https://05productcardcomponent-sergio.netlify.app/) | Venezuela |
 | 7 | José Toquica Montealegre | 4 | 12 | [Link1](https://profile-card-jt.netlify.app/), [Link2](https://blog-card-jt.netlify.app/), [Link3](https://product-info-jt.netlify.app/), [Link4](https://analytics-jt.netlify.app/) | Colombia |
 | 8 | Jefferson Pérez | 4 | 12 | [Link1](https://github.com/SevenStark/100proyectos_100dias), [Link2](https://github.com/SevenStark/100proyectos_100dias/tree/master/Day%202), [Link3](https://github.com/SevenStark/100proyectos_100dias/tree/master/Day%203), [Link5](https://github.com/SevenStark/100proyectos_100dias/blob/master/Day%204/index.html) | Colombia |
-<<<<<<< HEAD
 | 9 | Eduardo Martínez | 4 | 12 | [Link2](https://chimerical-cocada-086c58.netlify.app/), [Link3](https://eduaromp.github.io/100daysOfProjects/), [Link4](https://eduaromp.github.io/reto04/), [Link5](https://eduaromp.github.io/reto05/) | Venezuela |
 | 10 | Alexis Piguave | 4 | 12 | [Link3](https://alexispit.github.io/Day3/), [Link4](https://alexispit.github.io/Day4/), [Link5](https://alexispit.github.io/Day5/), [Link6](https://alexispit.github.io/Day6/) | Ecuador |
 | 11 | Ricardo Mejía | 3 | 9 | [Link1](https://ramtako8922.github.io/profile-card/), [Link2](https://ramtako8922.github.io/blog-preview/), [Link5](https://ramtako8922.github.io/product-preview-card-component/) | Colombia |
@@ -72,16 +71,13 @@ Tabla de posiciones actualizado al sábado 13/01/2024.🔥
 | 13 | Mati Giraudo | 2 | 6 | [Link2](https://matias-giraudo-day2.netlify.app/), [Link3](https://matias-giraudo-day3.netlify.app/) | Argentina |
 | 14 | Miguel Ramos Alarcón | 2 | 6 | [Link5](https://miguelramosalarcon.github.io/100DaysOfProjects/05-day-product-preview-card-component/), [Link6](https://miguelramosalarcon.github.io/100DaysOfProjects/06-day-results-summary-component/) | Perú |
 | 15 | Missael Padilla | 1 | 3 | [Link6](https://06-summary-component-missael-padilla.netlify.app/) | México |
-=======
 | 9 | Eduardo Martinez | 4 | 12 | [Link2](https://chimerical-cocada-086c58.netlify.app/), [Link3](https://eduaromp.github.io/100daysOfProjects/), [Link4](https://eduaromp.github.io/reto04/), [Link5](https://eduaromp.github.io/reto05/) | Venezuela |
 | 10 | Alexis Piguave | 3 | 9 | [Link3](https://alexispit.github.io/Day3/), [Link4](https://alexispit.github.io/Day4/), [Link5](https://alexispit.github.io/Day5/) | Ecuador |
 | 11 | Ricardo Mejía | 3 | 9 | [Link1](https://ramtako8922.github.io/profile-card/), [Link2](https://ramtako8922.github.io/blog-preview/), [Link4](https://ramtako8922.github.io/04-day-analytics/) | Colombia |
 | 12 | Mati Giraudo | 2 | 6 | [Link2](https://matias-giraudo-day2.netlify.app/), [Link3](https://matias-giraudo-day3.netlify.app/) | Argentina |
 | 13 | Miguel Ramos Alarcon | 1 | 3 | [Link5](https://miguelramosalarcon.github.io/100DaysOfProjects/05-day-product-preview-card-component/) | Perú |
->>>>>>> b5eab471b912cf390915ef08a41d0941ed76f137
 
-> **Los 3 primeros ganan un certificado JavaScript.** 
-> **Un proyecto completado otorga 3 puntos.**
+> **Los 3 primeros ganan un certificado JavaScript.** > **Un proyecto completado otorga 3 puntos.**
 
 ## Conecta con nosotros
 
