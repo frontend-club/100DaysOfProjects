@@ -71,13 +71,9 @@ Tabla de posiciones actualizado al sábado 13/01/2024.🔥
 | 13 | Mati Giraudo | 2 | 6 | [Link2](https://matias-giraudo-day2.netlify.app/), [Link3](https://matias-giraudo-day3.netlify.app/) | Argentina |
 | 14 | Miguel Ramos Alarcón | 2 | 6 | [Link5](https://miguelramosalarcon.github.io/100DaysOfProjects/05-day-product-preview-card-component/), [Link6](https://miguelramosalarcon.github.io/100DaysOfProjects/06-day-results-summary-component/) | Perú |
 | 15 | Missael Padilla | 1 | 3 | [Link6](https://06-summary-component-missael-padilla.netlify.app/) | México |
-| 9 | Eduardo Martinez | 4 | 12 | [Link2](https://chimerical-cocada-086c58.netlify.app/), [Link3](https://eduaromp.github.io/100daysOfProjects/), [Link4](https://eduaromp.github.io/reto04/), [Link5](https://eduaromp.github.io/reto05/) | Venezuela |
-| 10 | Alexis Piguave | 3 | 9 | [Link3](https://alexispit.github.io/Day3/), [Link4](https://alexispit.github.io/Day4/), [Link5](https://alexispit.github.io/Day5/) | Ecuador |
-| 11 | Ricardo Mejía | 3 | 9 | [Link1](https://ramtako8922.github.io/profile-card/), [Link2](https://ramtako8922.github.io/blog-preview/), [Link4](https://ramtako8922.github.io/04-day-analytics/) | Colombia |
-| 12 | Mati Giraudo | 2 | 6 | [Link2](https://matias-giraudo-day2.netlify.app/), [Link3](https://matias-giraudo-day3.netlify.app/) | Argentina |
-| 13 | Miguel Ramos Alarcon | 1 | 3 | [Link5](https://miguelramosalarcon.github.io/100DaysOfProjects/05-day-product-preview-card-component/) | Perú |
 
-> **Los 3 primeros ganan un certificado JavaScript.** > **Un proyecto completado otorga 3 puntos.**
+> **Los 3 primeros ganan un certificado JavaScript.** 
+> **Un proyecto completado otorga 3 puntos.**
 
 ## Conecta con nosotros
 
