@@ -75,11 +75,9 @@ Tabla de posiciones actualizada - domingo 14/01/2024.⚡
 | 16 | Sinapsis Alexander | 2 | 6 | [Link3](https://dia3-megproyecto.netlify.app/), [Link4](https://dia4-megproyecto.netlify.app/) | México |
 | 17 | Dyegho Rho | 1 | 3 | [Link6](https://dyegho.github.io/day06/summary.html) | Ecuador |
 
-> **Los 3 primeros ganan un certificado JavaScript.**
->
-> **En caso de haber empate, se analizará el diseño, así que codifica tal cual el diseño brindado.**
->
-> **Un proyecto completado otorga 3 puntos.**
+> ✅**Los 3 primeros ganan un certificado JavaScript.** <br>
+> ✅**En caso de haber empate, se analizará el diseño, así que codifica tal cual el diseño brindado.** <br>
+> ✅**Un proyecto completado otorga 3 puntos.** <br>
 
 ## Conecta con nosotros
 
