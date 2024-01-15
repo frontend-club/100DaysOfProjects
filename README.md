@@ -11,45 +11,54 @@ El propósito de este desafío es codificar 100 proyectos en 100 días. Imagina 
 - [Bienvenida](#bienvenida)
 - [Indicaciones](#indicaciones)
 - [Ranking](#ranking)
-- [Conecta con nosotros](#conecta-con-nosotros)
-- [A quien va dirigido](a-quien-va-dirigido)
+- [Sistema de puntuación]()
+- [Certificado]()
+- [¿A quién va dirigido?](¿a-quién-va-dirigido?)
+- [Nosotros](#nosotros)
 - [Exoneración de responsabilidad](#exoneración-de-responsabilidad)
 - [Apóyanos](#apóyanos)
 
 ## Bienvenida
 
-¡Bienvenid@ al desafío de codificación #100DaysOfProjects!⚡
+Hola👋, y bienvenido al desafío de codificación **#100DaysOfProjects**.⚡
 
-El objetivo🎯 de esta iniciativa es ayudarte a mejorar tus habilidades en HTML, CSS y JavaScript. Regalaremos certificado JavaScript a los 3 primeros del ranking, será una forma de motivarte a codificar 100 proyectos en 100 días.
+El objetivo de esta iniciativa es ayudarte a mejorar tus habilidades en HTML, CSS, JavaScript y Git, codificando 100 proyectos en 100 días. La mejor forma de escribir buen código es practicando todos los días.⚡
 
-Estamos emocionados de tenerte a bordo🚀 para este emocionante viaje de codificación.
+**Regalaremos certificados JavaScript a los 3 primeros lugares**, como una forma de motivar y comprometerse a completar los 100 proyectos.
 
-¡Prepárate para sumergirte en el mundo del desarrollo frontend y crear proyectos increíbles!🔥
+Prepárate para sumergirte en el mundo del desarrollo frontend y codificar proyectos geniales.🔥
 
 ## Indicaciones
 
-Lea las indicaciones antes de comenzar esta gran aventura:🔥
+Lea las indicaciones para comenzar esta gran aventura:🔥
 
-1. Los retos se publicarán todos los días, 6:00am hora Colombia, en nuestro [grupo de Facebook](https://www.facebook.com/groups/100daysofprojects).
-2. Brindaremos una **plantilla base** de cada reto, con los recursos, listo para codificar.
-3. Sube la solución a GitHub y despliega en un hosting gratuito: Vercel, Netlify, GitHub Pages.
-4. Comparte el link del proyecto terminado en nuestro [grupo de Facebook](https://www.facebook.com/groups/100daysofprojects).
+1. Los retos se publicarán todos los días en nuestra [página de Facebook](https://www.facebook.com/frontendclubfb).
 
-```text
-Hola @frontendclub👋,
+2. Cada reto tiene indicaciones, diseños y recursos que puedes encontrar en [Frontend Club Blog](https://frontend-club.bullet.site/).
 
-Acabo de completar el reto # de nuestro desafío #100DaysOfProjects.
+3. Brindamos **una plantilla base** de cada reto que puedes encontrar en nuestro [repositorio GitHub](https://github.com/frontend-club/100DaysOfProjects).
 
-Link de la solución:
-🌐https://profilecard.netlify.com/
-```
+4. Debes subir el proyecto a GitHub y hacer deploy en [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/) o [GitHub Pages](https://pages.github.com/).
 
-6. Completa mínimo un proyecto para entrar al ranking de participantes.🔥
-7. Comprométase a codificar los 100 retos, o al menos completar la mayoría.
-8. Si tienes dificultades para avanzar, pide ayuda en el [grupo de Facebook](https://www.facebook.com/groups/100daysofprojects).
-9. Cada reto se codificará en vivo por Twitch, todos los días, 10pm hora Colombia.
+5. Comparte la solución del proyecto en nuestro [grupo de Facebook](https://www.facebook.com/groups/100daysofprojects), para que el resto de la comunidad lo vea. Usa esta plantilla.
+
+   ```tex
+   Hola Frontend Club👋,
+   
+   Acabo de completar el reto # como parte del desafío #100DaysOfProjects.
+   
+   Mi solución:
+   - [Página web](https://profile-card.netlify.app/)
+   - [Repositorio](https://github.com/01-day-profile-card.git)
+   ```
+
+6. Ingresarás al ranking de participantes no bien recibamos la solución de un reto.
+
+7. La solución de cada reto se codificará en vivo en nuestro [canal de Twitch](https://www.twitch.tv/frontendclub), 10pm hora Colombia.
 
 ## Ranking
+
+Completa mínimo un proyecto y envía tu solución a nuestro [grupo de Facebook](https://www.facebook.com/groups/100daysofprojects) para ingresar al ranking.
 
 Tabla de posiciones actualizada - domingo 14/01/2024.⚡
 | Pos. | Nombre | Proyectos | Puntos | Links | País |
@@ -72,40 +81,70 @@ Tabla de posiciones actualizada - domingo 14/01/2024.⚡
 | 16 | Sinapsis Alexander | 2 | 6 | [Link3](https://dia3-megproyecto.netlify.app/), [Link4](https://dia4-marioreto4.netlify.app/) | México |
 | 17 | Dyegho Rho | 1 | 3 | [Link6](https://dyegho.github.io/day06/summary.html) | Ecuador |
 
-> ✅**Los 3 primeros ganan un certificado JavaScript.** <br>
-> ✅**En caso de haber empate, se analizará el diseño, así que codifica tal cual el diseño brindado.** <br>
-> ✅**Un proyecto completado otorga 3 puntos.** <br>
+> ✅**Los 3 primeros ganan un certificado JavaScript.**
 
-## Conecta con nosotros
+## Sistema de puntuación
 
-Síguenos para tener más noticias sobre el desafío #100DaysOfProjects, y otros contenidos.
+Un hombre siempre debe superar sus límites, y creemos que el sistema de puntuación incentivará mejores proyectos.
+
+Tenemos 3 métodos de puntuación para cada proyecto:
+
+- 50% igual al diseño - 1 punto
+- 90% igual al diseño - 2 puntos.
+- Plus adicional - 3 puntos.
+
+## Certificado
+
+Como mencionamos al inicio, **esta iniciativa es completamente gratuita** y nuestro deseo es ayudarte a mejorar tus habilidades frontend completando los 100 proyectos.
+
+Por tal motivo, vamos a **premiar tu esfuerzo regalando certificados JavaScript** a los 3 primeros lugares, y un **certificado adicional al proyecto** que tu digas "Guau, este proyecto merece un Oscar".
+
+En caso de **empate en el ranking o en el proyecto guau**, se realizarán votaciones con los miembros de la comunidad Frontend Club, así que únete a esta gran aventura que esto se va a poner bueno.⚡
+
+## ¿A quién va dirigido?
+
+Nacimos para ayudar y orientar a quienes se están iniciando en el maravilloso mundo del desarrollo web frontend.⚡
+
+- Principiantes y aspirantes al desarrollo web frontend.
+- Cualquier persona que desee aprender.
+
+## Nosotros
+
+Somos una comunidad de personas que **aspiramos a convertirnos en desarrolladores web frontend altamente competitivos**, que seamos capaces de crear y solucionar problemas del mundo real, a través de aplicaciones web que generen experiencias increíbles al usuario.
+
+**Frontend Club: La comunidad para convertirse en desarrollador web frontend.⚡**
+
+Siempre estamos creando contenido y lanzando ideas para acelerar el desarrollo de habilidades frontend, así que síguenos en nuestras redes sociales:
 
 - [Tik Tok](https://www.tiktok.com/@frontendclub)
 - [Facebook](https://www.facebook.com/frontendclubfb)
 - [Instagram](https://www.instagram.com/frontendclubig/)
 - [LinkedIn](https://www.linkedin.com/in/frontendclub/)
-- [Blog](https://frontend-club.bullet.site/)
+- [Frontend Club Blog](https://frontend-club.bullet.site/)
 - [GitHub](https://github.com/frontend-club)
 - [Codepen](https://codepen.io/frontend-club)
 - [Hashnode](https://hashnode.com/@frontendclub)
 
-## A quien va dirigido
-
-- Principiantes y aspirantes al desarrollo web frontend.
-- Cualquier persona que desee aprender.
-
 ## Exoneración de responsabilidad
 
-Esta es una iniciativa social completamente gratuita, y los administradores de esta comunidad no garantizan que usted se convertirá en un genio de la programación al finalizar el desafío.
+Esta es una **iniciativa completamente gratuita**, y los administradores no garantizan que usted se convertirá en un genio del desarrollo web al finalizar el desafío. La genialidad viene con la disciplina de la práctica diaria.⚡
 
-Por favor, véalo como una forma de comprometerse a codificar un proyecto todos los días y mejorar su nivel de en HTML, CSS y JavaScript.
+Por favor, véalo como una forma de motivarse a codificar todos los días, y que mejorará ampliamente sus habilidades en HTML, CSS, JavaScript y Git.⚡
 
 ## Apóyanos
 
-Gracias por ser parte de esta iniciativa, es un orgullo para nosotros y nos motivas a seguir creando contenido, y buscando ideas para mejorar nuestras habilidades como desarrolladores web.
+Gracias por ser parte de la **comunidad Frontend Club**, compartir nuestro contenido o recibir un comentario tuyo, es una alegría que nos motiva a seguir creando y buscando ideas para acelerar nuestras habilidades frontend.
+
+Si deseas, puedes contribuir con nosotros👇:
 
 - [**BuyMeaCoffee**](https://www.buymeacoffee.com/frontendclub)
 - [**Paypal**](https://paypal.me/xantosromero?country.x=PE&locale.x=es_XC)
 - [**Patreon**](patreon.com/frontendclubpatreon)
+
+Vamos con todo este 2024, no paramos hasta los **#100DaysOfProjects**⚡
+
+------
+
+
 
 > _“Yo puedo hacer cosas que tú no puedes, tú puedes hacer cosas que yo no puedo; juntos podemos hacer grandes cosas”_. — Madre **Teresa de Calcuta.**
