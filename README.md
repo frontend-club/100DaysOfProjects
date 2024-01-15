@@ -49,8 +49,9 @@ Link de la solución:
 8. Si tienes dificultades para avanzar, pide ayuda en el [grupo de Facebook](https://www.facebook.com/groups/100daysofprojects).
 9. Cada reto se codificará en vivo por Twitch, todos los días, 10pm hora Colombia.
 
-> Es indispensable cumplir la regla 5 para entrar al ranking de participantes.
-> Codifica tal cual el diseño brindado, en caso de haber empate en el ranking, se analizará el diseño.
+> ✅**Los 3 primeros ganan un certificado JavaScript.**
+> ✅**En caso de haber empate, se analizará el diseño, así que codifica tal cual el diseño brindado.**
+> ✅**Un proyecto completado otorga 3 puntos.**
 
 ## Ranking
 
