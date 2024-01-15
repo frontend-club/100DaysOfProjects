@@ -1,21 +1,78 @@
 /* -----------------
 Tabla de contenidos:
 --------------------
-1. Fuente ................ 11
-2. Variables ............. 17
-3. Estilos generales ..... 32
+1. Fuente ................ 14
+2. Variables ............. 19
+3. Estilos generales ..... 35
+4. Estilos container ..... 42
+5. Estilos card .......... 53
+6. Estilos footer ........ 67
 -------------------- 
 */
 
 
 /* ----- Fuente ----- */
-
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&family=Outfit:wght@300;400;600&display=swap');
 
 
 /* ----- Variables ----- */
+:root {
+    /* colores primarios */
+    --soft-blue: hsl(215, 51%, 70%);
+    --cyan: hsl(178, 100%, 50%);
 
+    /* colores neutrales */
+    --very-dark-blue-main: hsl(217, 54%, 11%);
+    --very-dark-blue-card: hsl(216, 50%, 16%);
+    --very-dark-blue-line: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+}
 
 
 /* ----------------------------- */
 /* ----- Estilos generales ----- */
 /* ----------------------------- */
+body {
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    color: var(--very-dark-blue-card);
+}
+
+/* ----- Estilos container ----- */
+.container {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--soft-blue);
+}
+
+/* ----- Estilos card ----- */
+.card {
+    width: 250px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: var(--white);
+    box-shadow: 2px 2px 9px rgba(145, 145, 145, 0.5);
+}
+
+img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+/* ----- Estilos footer ----- */
+.card__footer {
+    text-align: center;
+}
+
+.card__title {
+    font-size: 1.3rem;
+}
+
+.card__copy {
+    font-size: 1rem;
+    color: var(--very-dark-blue-line);
+}
