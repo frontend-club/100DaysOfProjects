@@ -60,39 +60,39 @@ Lea las indicaciones para comenzar esta gran aventura:⚡
 
 ## Ranking
 
-Completa mínimo un proyecto y envía tu solución a nuestro [grupo de Facebook](https://www.facebook.com/groups/100daysofprojects) para ingresar al ranking.
+Tabla de posiciones actualizada - lunes 22/01/2024.⚡
 
-Tabla de posiciones actualizada - domingo 21/01/2024.⚡
+| #    | Nombre             | PC   | P1   | P2   | P3   | PAIS      | PTOS |
+| ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ---- |
+| 1    | Maria T. Camacho   | 14   | 11   | 3    | 0    | Venezuela | 17   |
+| 2    | Miguel Ramos       | 13   | 10   | 3    | 0    | Perú      | 16   |
+| 3    | Martin Ascarrunz   | 13   | 12   | 1    | 0    | Bolivia   | 14   |
+| 4    | Gary Solyz         | 11   | 9    | 2    | 0    | Bolivia   | 13   |
+| 5    | Dyegho Rho         | 13   | 13   | 0    | 0    | Ecuador   | 13   |
+| 6    | Sinapsis Alexander | 13   | 13   | 0    | 0    | México    | 13   |
+| 7    | Alex Piguave       | 11   | 10   | 1    | 0    | Ecuador   | 12   |
+| 8    | Roberth Ocampo     | 11   | 11   | 0    | 0    | Ecuador   | 11   |
+| 9    | Missael Padilla    | 9    | 8    | 1    | 0    | México    | 10   |
+| 10   | Arnaldo Muñoz      | 10   | 10   | 0    | 0    | Bolivia   | 10   |
+| 11   | Dylan Reyes        | 5    | 5    | 3    | 0    | México    | 8    |
+| 12   | Sergio Hurtado     | 7    | 7    | 0    | 0    | Venezuela | 7    |
+| 13   | Ricardo Mejia      | 7    | 7    | 0    | 0    | Colombia  | 7    |
+| 14   | Dweb Code          | 5    | 5    | 0    | 0    | Perú      | 5    |
+| 15   | Eduardo Martinez   | 4    | 4    | 0    | 0    | Venezuela | 4    |
+| 16   | Jose Toquica       | 4    | 4    | 0    | 0    | Colombia  | 4    |
+| 17   | Van Tejerina       | 3    | 2    | 1    | 0    | Bolivia   | 4    |
+| 18   | Mati Giraudo       | 2    | 2    | 0    | 0    | Argentina | 2    |
+| 19   | Erwin Leon         | 1    | 1    | 0    | 0    | Bolivia   | 1    |
+| 20   | Code Avl           | 5    | 5    | 0    | 0    | Perú      | 0    |
+| 21   | Jefferson Perez    | 7    | 7    | 0    | 0    | Colombia  | 0    |
 
-| Pos. | Nombre                              | PC   | LP                                                           | País      | Puntos |
-| ---- | ----------------------------------- | ---- | ------------------------------------------------------------ | --------- | ------ |
-| 1    | Mariana Trinidad Camacho  Villasmil | 12   | [Link1](https://frabjous-alpaca-9a3286.netlify.app/), [Link2](https://wonderful-bavarois-632e3e.netlify.app/), [Link3](https://stalwart-crostata-7e7580.netlify.app/), [Link4](https://earnest-pasca-669406.netlify.app/), [Link5](https://ephemeral-bavarois-d3422c.netlify.app/), [Link6](https://heartfelt-dasik-a34ded.netlify.app/), [Link7](), [Link8](), [Link9](), [Link10](), [Link11](), [Link12]() | Venezuela | 16     |
-| 2    | Miguel Ramos Alarcón                | 13   | [Link1](https://miguelramosalarcon.github.io/100DaysOfProjects/01-day-profile-card/), [Link2](https://miguelramosalarcon.github.io/100DaysOfProjects/02-day-blog-preview-card/), [Link3](https://miguelramosalarcon.github.io/100DaysOfProjects/03-day-product-info/), [Link5](https://miguelramosalarcon.github.io/100DaysOfProjects/05-day-product-preview-card-component/), [Link6](https://miguelramosalarcon.github.io/100DaysOfProjects/06-day-results-summary-component/), [Link7](https://miguelramosalarcon.github.io/100DaysOfProjects/07-day-qr-code-component/), [Link8](https://miguelramosalarcon.github.io/100DaysOfProjects/08-day-nft-preview-card-component/), [Link9](https://miguelramosalarcon.github.io/100DaysOfProjects/09-day-order-summary-component/), [Link10](https://miguelramosalarcon.github.io/100DaysOfProjects/10-day-stats-preview-card-component/), [Link11](), [Link12](), [Link13](), [Link14]() | Perú      | 15     |
-| 3    | Martin Ascarrunz Mejía              | 13   | [Link1](https://profile-card-martin.netlify.app/), [Link2](https://blog-preview-card-martin.netlify.app/), [Link3](https://product-info-martin.netlify.app/), [Link4](https://silver-biscochitos-f22d55.netlify.app/), [Link5](https://product-preview-card-mobile.netlify.app/), [Link6](https://day-results-summary-component-martin.netlify.app/), [Link7](https://day-qr-code-component-martin.netlify.app/), [Link8](https://nft-card-martin.netlify.app/), [Link9](https://day-order-summary-martin.netlify.app/), [Link10](https://remarkable-selkie-6819b7.netlify.app/), [Link11](), [Link12](), [Link13]() | Bolivia   | 14     |
-| 4    | Dyegho Rho                          | 13   | [Link1](https://dyegho.github.io/day01/profile.html), [Link2](https://dyegho.github.io/day02/blog.html), [Link3](), [Link4](), [Link5](), [Link6](https://dyegho.github.io/day06/summary.html), [Link7](https://dyegho.github.io/day07/qr.html), [Link8](https://dyegho.github.io/day08/ntf-preview.html), [Link9](https://dyegho.github.io/day09/order-summary.html), [Lin10](https://dyegho.github.io/day10/preview-card.html), [Link11](https://dyegho.github.io/day11/preview3column.html), [Link12](), [Link13]() | Ecuador   | 13     |
-| 5    | Sinapsis Alexander                  | 13   | [Link1](https://deft-stardust-dbe7a3.netlify.app/), [Link2](https://legendary-tarsier-6ff32d.netlify.app/), [Link3](https://dia3-megproyecto.netlify.app/), [Link4](https://dia4-marioreto4.netlify.app/), [Link5](), [Link6](), [Link7](), [Link8](https://reto8-ubiquitous-sherbet-41dba9.netlify.app/), [Link9](https://creative-kangaroo-529445.netlify.app/), [Link10](), [Link11](), [Link12](), [Link13]() | México    | 13     |
-| 6    | Alexis  Piguave                     | 11   | [Link3](https://alexispit.github.io/Day3/), [Link4](https://alexispit.github.io/Day4/), [Link5](https://alexispit.github.io/Day5/), [Link6](https://alexispit.github.io/Day6/), [Link7](https://alexispit.github.io/Day7/), [Link8](https://alexispit.github.io/Day8/), [Link9](https://alexispit.github.io/Day9/), [Link10](https://alexispit.github.io/Day10/), [Link11](), [Link12](), [Link13]() | Ecuador   | 12     |
-| 7    | Roberth Alejandro Ocampo  Ocampo    | 11   | [Link1](https://profilecardday1rao.netlify.app/), [Link2](https://profilecardraodia2.netlify.app/), [Link3](https://profilecardraoday3.netlify.app/), [Link4](https://profilecardanalyticsraodia4.netlify.app/), [Link5](https://profilecardday5rao.netlify.app/), [Link6](https://profilecardday6rao.netlify.app/), [Link7](https://profilecardraoday07.netlify.app/), [Link8](https://profile-cardraoday08.netlify.app/), [Link9](https://profilecardraoday09.netlify.app/), [Link10](), [Link11]() | Ecuador   | 11     |
-| 8    | Missael Padilla                     | 9    | [Link1](https://missael07.github.io/01Day-ProfileCard/), [Link2](https://02-blog-preview-card-missael-padilla.netlify.app/), [Link3](https://03-product-summary-missael-padilla.netlify.app/), [Link4](https://analytics-missael-padilla.netlify.app/), [Link5](https://product-preview-card-missael-padilla.netlify.app/), [Link6](https://06-summary-component-missael-padilla.netlify.app/), [Link7](https://qr-code-missael-padilla.netlify.app/), [Link8](https://missael07.github.io/08Day-nft-preview-card-component/), [Link9](https://order-summary-missael-padilla.netlify.app/#/order-summary) | México    | 11     |
-| 9    | Arnaldo Muñoz                       | 10   | [Link1](https://profile-card-arni.netlify.app/), [Link2](https://blog-card-arni.netlify.app/), [Link3](https://product-info-arni.netlify.app/), [Link4](https://day-analytics-arni.netlify.app/), [Link5](https://product-card-arni.netlify.app/), [Link6](https://results-summary-arni.netlify.app/), [Link7](https://qr-component-arni.netlify.app/), [Link8](https://nft-card-arni.netlify.app/), [Link9](https://order-summary-arni.netlify.app/), [Link10](https://stats-card-arni.netlify.app/) | Bolivia   | 11     |
-| 10   | Soliz Gary                          | 11   | [Link1](https://01-profile-card.netlify.app/), [Link2](https://blogpreviewcardgs.netlify.app/), [Link3](https://03-day-product-info.netlify.app/), [Link4](https://04-analytics.netlify.app/), [Link5](https://05-product-view-card.netlify.app/), [Link6](https://06-results-summary-component.netlify.app/), [Link7](https://07-qr-code-component.netlify.app/), [Link8](https://08-nft-preview-card.netlify.app/), [Link9](https://09-order-summary-component.netlify.app/), [Link10](), [Link11]() | Bolivia   | 11     |
-| 11   | Sergio A. Hurtado                   | 7    | [Link1](https://profilecard-100days-sergioh.netlify.app/), [Link2](https://blogcard-sergio.netlify.app/), [Link3](https://03cardproductinfo-sergio.netlify.app/), [Link4](https://04analytics-sergio.netlify.app/), [Link5](https://05productcardcomponent-sergio.netlify.app/), [Link6](https://06resultssummarycomponent-sergio.netlify.app/), [Link7](https://07qrcodecomponent-sergio.netlify.app/) | Venezuela | 7      |
-| 12   | Code Avl                            | 6    | [Link1](https://avl-vins.github.io/01-Day-Profile-Card/), [Link2](https://avl-vins.github.io/02-Day-Blog-Preview-Card/), [Link3](https://avl-vins.github.io/03-Day-Product-Info/), [Link4](https://avl-vins.github.io/04-Day-Analytics/), [Link5](https://avl-vins.github.io/05-Day-Product-Card-Component/), [Link6](https://avl-vins.github.io/06-Day-Results-Summary-Component/) | Perú      | 6      |
-| 13   | Dylan Reyes                         | 5    | [Link1](https://01-day-profile-card.netlify.app/), [Link5](https://preview-card-1.netlify.app/), [Link6](https://results-summary-component-dllanw.netlify.app/), [Link7](https://qr-card-preview-c2.netlify.app/), [Link8]() | México    | 6      |
-| 14   | Dweb Code                           | 5    | [Link1](https://avl-vins.github.io/reto-1-ProfileCard/), [Link2](https://avl-vins.github.io/reto-2-Blog-Preview-Card/), [Link3](https://avl-vins.github.io/reto-3-Product-Info/), [Link4](https://avl-vins.github.io/reto-4-Analytics/), [Link5]() | Perú      | 5      |
-| 15   | Ricardo Mejía                       | 5    | [Link1](https://ramtako8922.github.io/profile-card/), [Link2](https://ramtako8922.github.io/blog-preview/), [Link5](https://ramtako8922.github.io/product-preview-card-component/), [Link6](https://ramtako8922.github.io/results-summary-component/), [Link7](https://ramtako8922.github.io/qr-code-component/) | Colombia  | 5      |
-| 16   | Eduardo Martínez                    | 4    | [Link2](https://chimerical-cocada-086c58.netlify.app/), [Link3](https://eduaromp.github.io/100daysOfProjects/), [Link4](https://eduaromp.github.io/reto04/), [Link5](https://eduaromp.github.io/reto05/) | Venezuela | 4      |
-| 17   | José Toquica Montealegre            | 4    | [Link1](https://profile-card-jt.netlify.app/), [Link2](https://blog-card-jt.netlify.app/), [Link3](https://product-info-jt.netlify.app/), [Link4](https://analytics-jt.netlify.app/) | Colombia  | 4      |
-| 18   | Van  Tejerina                       | 3    | [Link1](https://cute-florentine-ccfcce.netlify.app/), [Link2](), [Link3]() | Bolivia   | 4      |
-| 19   | Mati Giraudo                        | 2    | [Link2](https://matias-giraudo-day2.netlify.app/), [Link3](https://matias-giraudo-day3.netlify.app/) | Argentina | 2      |
-| 20   | Erwin Leon Ramos                    | 1    | [Link11](https://rwin97.github.io/-100DaysOfProjects-frontend/day_11/) | Bolivia   | 1      |
-| 21   | Jefferson Pérez                     | 7    | N/A, N/A, N/A, N/A, N/A, N/A, N/A                            | Colombia  | 0      |
-
-> Pos: Posición
+> PC: Proyecto completado
 >
-> PC: Proyectos completados
+> P1: Proyecto de 1 punto
 >
-> LP: Link del proyecto
+> P2: Proyecto de 2 puntos
+>
+> P3: Proyecto de 3 puntos
 
 ## Sistema de puntuación
 
