@@ -62,29 +62,29 @@ Lea las indicaciones para comenzar esta gran aventura:⚡
 
 Tabla de posiciones actualizada - lunes 22/01/2024.⚡
 
-| #    | Nombre             | PC   | P1   | P2   | P3   | PAIS      | PTOS |
-| ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ---- |
-| 1    | Maria T. Camacho   | 14   | 11   | 3    | 0    | Venezuela | 17   |
-| 2    | Miguel Ramos       | 13   | 10   | 3    | 0    | Perú      | 16   |
-| 3    | Martin Ascarrunz   | 13   | 12   | 1    | 0    | Bolivia   | 14   |
-| 4    | Gary Solyz         | 11   | 9    | 2    | 0    | Bolivia   | 13   |
-| 5    | Dyegho Rho         | 13   | 13   | 0    | 0    | Ecuador   | 13   |
-| 6    | Sinapsis Alexander | 13   | 13   | 0    | 0    | México    | 13   |
-| 7    | Alex Piguave       | 11   | 10   | 1    | 0    | Ecuador   | 12   |
-| 8    | Roberth Ocampo     | 11   | 11   | 0    | 0    | Ecuador   | 11   |
-| 9    | Missael Padilla    | 9    | 8    | 1    | 0    | México    | 10   |
-| 10   | Arnaldo Muñoz      | 10   | 10   | 0    | 0    | Bolivia   | 10   |
-| 11   | Dylan Reyes        | 5    | 5    | 3    | 0    | México    | 8    |
-| 12   | Sergio Hurtado     | 7    | 7    | 0    | 0    | Venezuela | 7    |
-| 13   | Ricardo Mejia      | 7    | 7    | 0    | 0    | Colombia  | 7    |
-| 14   | Dweb Code          | 5    | 5    | 0    | 0    | Perú      | 5    |
-| 15   | Eduardo Martinez   | 4    | 4    | 0    | 0    | Venezuela | 4    |
-| 16   | Jose Toquica       | 4    | 4    | 0    | 0    | Colombia  | 4    |
-| 17   | Van Tejerina       | 3    | 2    | 1    | 0    | Bolivia   | 4    |
-| 18   | Mati Giraudo       | 2    | 2    | 0    | 0    | Argentina | 2    |
-| 19   | Erwin Leon         | 1    | 1    | 0    | 0    | Bolivia   | 1    |
-| 20   | Code Avl           | 5    | 5    | 0    | 0    | Perú      | 0    |
-| 21   | Jefferson Perez    | 7    | 7    | 0    | 0    | Colombia  | 0    |
+| #    | Nombre             | PC   | P1   | P2   | P3   | País      | Ptos   |
+| ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
+| 1    | Maria T. Camacho   | 14   | 11   | 3    | 0    | Venezuela | **17** |
+| 2    | Miguel Ramos       | 14   | 11   | 3    | 0    | Perú      | **17** |
+| 3    | Roberth Ocampo     | 15   | 13   | 1    | 0    | Ecuador   | **16** |
+| 4    | Sinapsis Alexander | 14   | 14   | 0    | 0    | México    | **14** |
+| 5    | Alex Piguave       | 13   | 12   | 1    | 0    | Ecuador   | **14** |
+| 6    | Martin Ascarrunz   | 13   | 12   | 1    | 0    | Bolivia   | **14** |
+| 7    | Gary Solyz         | 11   | 9    | 2    | 0    | Bolivia   | **13** |
+| 8    | Dyegho Rho         | 13   | 13   | 0    | 0    | Ecuador   | **13** |
+| 9    | Missael Padilla    | 9    | 8    | 1    | 0    | México    | **10** |
+| 10   | Arnaldo Muñoz      | 10   | 10   | 0    | 0    | Bolivia   | **10** |
+| 11   | Dylan Reyes        | 5    | 5    | 3    | 0    | México    | **8**  |
+| 12   | Sergio Hurtado     | 7    | 7    | 0    | 0    | Venezuela | **7**  |
+| 13   | Ricardo Mejía      | 7    | 7    | 0    | 0    | Colombia  | **7**  |
+| 14   | Dweb Code          | 5    | 5    | 0    | 0    | Perú      | **5**  |
+| 15   | Eduardo Martínez   | 4    | 4    | 0    | 0    | Venezuela | **4**  |
+| 16   | José Toquica       | 4    | 4    | 0    | 0    | Colombia  | **4**  |
+| 17   | Van Tejerina       | 3    | 2    | 1    | 0    | Bolivia   | **4**  |
+| 18   | Mati Giraudo       | 2    | 2    | 0    | 0    | Argentina | **2**  |
+| 19   | Erwin Leon         | 1    | 1    | 0    | 0    | Bolivia   | **1**  |
+| 20   | Code Avl           | 5    | 5    | 0    | 0    | Perú      | **0**  |
+| 21   | Jefferson Pérez    | 7    | 7    | 0    | 0    | Colombia  | **0**  |
 
 > PC: Proyecto completado
 >
@@ -106,7 +106,7 @@ Tres métodos de puntuación:
 
 ## Certificado
 
-Como mencionamos al inicio, **esta iniciativa es completamente gratis** y nuestro deseo es ayudarte a mejorar tus habilidades frontend completando los 100 proyectos.
+Como mencionamos al inicio, **esta iniciativa es completamente gratis** y nuestro deseo es ayudarte a mejorar tus habilidades frontend codificando 100 proyectos.
 
 Por tal motivo, vamos a **premiar tu esfuerzo regalando certificados JavaScript** a los 3 primeros lugares, y un **certificado adicional al proyecto** que tu digas "Guau, este proyecto merece un Oscar".
 
