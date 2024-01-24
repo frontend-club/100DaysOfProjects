@@ -64,14 +64,14 @@ Tabla de posiciones actualizada - lunes 22/01/2024.⚡
 
 | #    | Nombre             | PC   | P1   | P2   | P3   | País      | Ptos   |
 | ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
-| 1    | Maria T. Camacho   | 14   | 11   | 3    | 0    | Venezuela | **17** |
-| 2    | Miguel Ramos       | 14   | 11   | 3    | 0    | Perú      | **17** |
+| 1    | Maria T. Camacho   | 16   | 13   | 3    | 0    | Venezuela | **19** |
+| 2    | Miguel Ramos       | 15   | 12   | 3    | 0    | Perú      | **18** |
 | 3    | Roberth Ocampo     | 15   | 13   | 1    | 0    | Ecuador   | **16** |
-| 4    | Sinapsis Alexander | 14   | 14   | 0    | 0    | México    | **14** |
-| 5    | Alex Piguave       | 13   | 12   | 1    | 0    | Ecuador   | **14** |
-| 6    | Martin Ascarrunz   | 13   | 12   | 1    | 0    | Bolivia   | **14** |
-| 7    | Gary Solyz         | 11   | 9    | 2    | 0    | Bolivia   | **13** |
-| 8    | Dyegho Rho         | 13   | 13   | 0    | 0    | Ecuador   | **13** |
+| 4    | Martin Ascarrunz   | 14   | 13   | 1    | 0    | Bolivia   | **15** |
+| 5    | Dyegho Rho         | 14   | 13   | 1    | 0    | Ecuador   | **15** |
+| 6    | Alex Piguave       | 14   | 13   | 1    | 0    | Ecuador   | **15** |
+| 7    | Sinapsis Alexander | 14   | 14   | 0    | 0    | México    | **14** |
+| 8    | Gary Solyz         | 11   | 9    | 2    | 0    | Bolivia   | **13** |
 | 9    | Missael Padilla    | 9    | 8    | 1    | 0    | México    | **10** |
 | 10   | Arnaldo Muñoz      | 10   | 10   | 0    | 0    | Bolivia   | **10** |
 | 11   | Dylan Reyes        | 5    | 5    | 3    | 0    | México    | **8**  |
