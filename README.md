@@ -60,18 +60,18 @@ Lea las indicaciones para comenzar esta gran aventura:⚡
 
 ## Ranking
 
-Tabla de posiciones actualizada - martes 23/01/2024.⚡
+Tabla de posiciones actualizada - miércoles 24/01/2024.⚡
 
 | #    | Nombre             | PC   | P1   | P2   | P3   | País      | Ptos   |
 | ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
-| 1    | Maria T. Camacho   | 16   | 13   | 3    | 0    | Venezuela | **19** |
-| 2    | Miguel Ramos       | 15   | 12   | 3    | 0    | Perú      | **18** |
-| 3    | Roberth Ocampo     | 15   | 13   | 1    | 0    | Ecuador   | **16** |
-| 4    | Martin Ascarrunz   | 14   | 13   | 1    | 0    | Bolivia   | **15** |
-| 5    | Dyegho Rho         | 14   | 13   | 1    | 0    | Ecuador   | **15** |
-| 6    | Alex Piguave       | 14   | 13   | 1    | 0    | Ecuador   | **15** |
-| 7    | Sinapsis Alexander | 14   | 14   | 0    | 0    | México    | **14** |
-| 8    | Gary Solyz         | 11   | 9    | 2    | 0    | Bolivia   | **13** |
+| 1    | Mariana T. Camacho | 17   | 14   | 3    | 0    | Venezuela | **20** |
+| 2    | Miguel Ramos       | 16   | 12   | 4    | 0    | Perú      | **20** |
+| 3    | Sinapsis Alexander | 17   | 17   | 0    | 0    | México    | **17** |
+| 4    | Roberth Ocampo     | 15   | 13   | 1    | 0    | Ecuador   | **16** |
+| 5    | Martin Ascarrunz   | 15   | 14   | 1    | 0    | Bolivia   | **16** |
+| 6    | Alex Piguave       | 15   | 14   | 1    | 0    | Ecuador   | **16** |
+| 7    | Gary Solyz         | 13   | 10   | 3    | 0    | Bolivia   | **16** |
+| 8    | Dyegho Rho         | 14   | 13   | 1    | 0    | Ecuador   | **15** |
 | 9    | Missael Padilla    | 9    | 8    | 1    | 0    | México    | **10** |
 | 10   | Arnaldo Muñoz      | 10   | 10   | 0    | 0    | Bolivia   | **10** |
 | 11   | Dylan Reyes        | 5    | 5    | 3    | 0    | México    | **8**  |
