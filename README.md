@@ -66,10 +66,10 @@ Tabla de posiciones actualizada - jueves 25/01/2024.⚡
 | ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
 | 1    | Miguel Ramos       | 17   | 13   | 4    | 0    | Perú      | **21** |
 | 2    | Mariana T. Camacho | 17   | 14   | 3    | 0    | Venezuela | **20** |
-| 3    | Sinapsis Alexander | 18   | 17   | 1    | 0    | México    | **19** |
-| 4    | Gary Solyz         | 15   | 11   | 4    | 0    | Bolivia   | **19** |
-| 5    | Martin Ascarrunz   | 16   | 14   | 2    | 0    | Bolivia   | **18** |
-| 6    | Roberth Ocampo     | 15   | 13   | 1    | 0    | Ecuador   | **16** |
+| 3    | Roberth Ocampo     | 16   | 14   | 1    | 1    | Ecuador   | **20** |
+| 4    | Sinapsis Alexander | 18   | 17   | 1    | 0    | México    | **19** |
+| 5    | Gary Solyz         | 15   | 11   | 4    | 0    | Bolivia   | **19** |
+| 6    | Martin Ascarrunz   | 16   | 14   | 2    | 0    | Bolivia   | **18** |
 | 7    | Alex Piguave       | 15   | 14   | 1    | 0    | Ecuador   | **16** |
 | 8    | Dyegho Rho         | 14   | 13   | 1    | 0    | Ecuador   | **15** |
 | 9    | Missael Padilla    | 9    | 8    | 1    | 0    | México    | **10** |
@@ -78,10 +78,10 @@ Tabla de posiciones actualizada - jueves 25/01/2024.⚡
 | 12   | Sergio Hurtado     | 7    | 7    | 0    | 0    | Venezuela | **7**  |
 | 13   | Ricardo Mejía      | 7    | 7    | 0    | 0    | Colombia  | **7**  |
 | 14   | Mati Giraudo       | 5    | 4    | 1    | 0    | Argentina | **6**  |
-| 15   | Dweb Code          | 5    | 5    | 0    | 0    | Perú      | **5**  |
-| 16   | Eduardo Martínez   | 4    | 4    | 0    | 0    | Venezuela | **4**  |
-| 17   | José Toquica       | 4    | 4    | 0    | 0    | Colombia  | **4**  |
-| 18   | Van Tejerina       | 3    | 2    | 1    | 0    | Bolivia   | **4**  |
+| 15   | Van Tejerina       | 4    | 1    | 1    | 0    | Bolivia   | **5**  |
+| 16   | Dweb Code          | 5    | 5    | 0    | 0    | Perú      | **5**  |
+| 17   | Eduardo Martínez   | 4    | 4    | 0    | 0    | Venezuela | **4**  |
+| 18   | José Toquica       | 4    | 4    | 0    | 0    | Colombia  | **4**  |
 | 19   | Erwin Leon         | 1    | 1    | 0    | 0    | Bolivia   | **1**  |
 | 20   | Code Avl           | 5    | 5    | 0    | 0    | Perú      | **0**  |
 | 21   | Jefferson Pérez    | 7    | 7    | 0    | 0    | Colombia  | **0**  |
