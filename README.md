@@ -60,7 +60,7 @@ Lea las indicaciones para comenzar esta gran aventura:⚡
 
 ## Ranking
 
-Tabla de posiciones actualizada - jueves 25/01/2024.⚡
+Tabla de posiciones actualizada - viernes 26/01/2024.⚡
 
 | #    | Nombre             | PC   | P1   | P2   | P3   | País      | Ptos   |
 | ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
