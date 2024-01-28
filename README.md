@@ -64,27 +64,29 @@ Tabla de posiciones actualizada - viernes 26/01/2024.⚡
 
 | #    | Nombre             | PC   | P1   | P2   | P3   | País      | Ptos   |
 | ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
-| 1    | Miguel Ramos       | 18   | 14   | 4    | 0    | Perú      | **22** |
-| 2    | Mariana T. Camacho | 17   | 14   | 3    | 0    | Venezuela | **20** |
-| 3    | Roberth Ocampo     | 16   | 14   | 1    | 1    | Ecuador   | **20** |
-| 4    | Sinapsis Alexander | 18   | 17   | 1    | 0    | México    | **19** |
+| 1    | Mariana T. Camacho | 20   | 17   | 3    | 0    | Venezuela | **23** |
+| 2    | Mario Espinosa     | 21   | 19   | 2    | 0    | México    | **23** |
+| 3    | Miguel Ramos       | 18   | 14   | 4    | 0    | Perú      | **22** |
+| 4    | Roberth Ocampo     | 16   | 14   | 1    | 1    | Ecuador   | **20** |
 | 5    | Gary Solyz         | 15   | 11   | 4    | 0    | Bolivia   | **19** |
-| 6    | Martin Ascarrunz   | 16   | 14   | 2    | 0    | Bolivia   | **18** |
-| 7    | Diego Pitizaca     | 16   | 15   | 1    | 0    | Ecuador   | **17** |
-| 8    | Alex Piguave       | 16   | 15   | 1    | 0    | Ecuador   | **17** |
+| 6    | Alex Piguave       | 17   | 16   | 1    | 0    | Ecuador   | **18** |
+| 7    | Martin Ascarrunz   | 16   | 14   | 2    | 0    | Bolivia   | **18** |
+| 8    | Diego Pitizaca     | 16   | 15   | 1    | 0    | Ecuador   | **17** |
 | 9    | Dylan Reyes        | 6    | 2    | 4    | 0    | México    | **10** |
 | 10   | Missael Padilla    | 9    | 8    | 1    | 0    | México    | **10** |
 | 11   | Arnaldo Muñoz      | 10   | 10   | 0    | 0    | Bolivia   | **10** |
 | 12   | Sergio Hurtado     | 7    | 7    | 0    | 0    | Venezuela | **7**  |
 | 13   | Ricardo Mejía      | 7    | 7    | 0    | 0    | Colombia  | **7**  |
-| 14   | Mati Giraudo       | 5    | 4    | 1    | 0    | Argentina | **6**  |
-| 15   | Van Tejerina       | 4    | 1    | 1    | 0    | Bolivia   | **5**  |
-| 16   | Dweb Code          | 5    | 5    | 0    | 0    | Perú      | **5**  |
-| 17   | Erwin Leon         | 3    | 2    | 1    | 0    | Bolivia   | **4**  |
-| 18   | Eduardo Martínez   | 4    | 4    | 0    | 0    | Venezuela | **4**  |
-| 19   | José Toquica       | 4    | 4    | 0    | 0    | Colombia  | **4**  |
-| 20   | Code Avl           | 5    | 5    | 0    | 0    | Perú      | **0**  |
-| 21   | Jefferson Pérez    | 7    | 7    | 0    | 0    | Colombia  | **0**  |
+| 14   | Esteban Suarez     | 6    | 6    | 0    | 0    | Bolivia   | **6**  |
+| 15   | Erwin Leon         | 5    | 4    | 1    | 0    | Bolivia   | **6**  |
+| 16   | Mati Giraudo       | 5    | 4    | 1    | 0    | Argentina | **6**  |
+| 17   | Van Tejerina       | 4    | 1    | 1    | 0    | Bolivia   | **5**  |
+| 18   | Dweb Code          | 5    | 5    | 0    | 0    | Perú      | **5**  |
+| 19   | Eduardo Martínez   | 4    | 4    | 0    | 0    | Venezuela | **4**  |
+| 20   | José Toquica       | 4    | 4    | 0    | 0    | Colombia  | **4**  |
+| 21   | José Flores        | 1    | 1    | 0    | 0    | Bolivia   | **1**  |
+| 22   | Code Avl           | 5    | 5    | 0    | 0    | Perú      | **0**  |
+| 23   | Jefferson Pérez    | 7    | 7    | 0    | 0    | Colombia  | **0**  |
 
 > PC: Proyecto completado
 >
