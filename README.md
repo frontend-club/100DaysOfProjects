@@ -60,16 +60,16 @@ Lea las indicaciones para comenzar esta gran aventura:⚡
 
 ## Ranking
 
-Tabla de posiciones actualizada - viernes 26/01/2024.⚡
+Tabla de posiciones actualizada - domingo 28/01/2024.⚡
 
 | #    | Nombre             | PC   | P1   | P2   | P3   | País      | Ptos   |
 | ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
 | 1    | Mariana T. Camacho | 20   | 17   | 3    | 0    | Venezuela | **23** |
 | 2    | Mario Espinosa     | 21   | 19   | 2    | 0    | México    | **23** |
-| 3    | Miguel Ramos       | 18   | 14   | 4    | 0    | Perú      | **22** |
-| 4    | Roberth Ocampo     | 16   | 14   | 1    | 1    | Ecuador   | **20** |
-| 5    | Gary Solyz         | 15   | 11   | 4    | 0    | Bolivia   | **19** |
-| 6    | Alex Piguave       | 17   | 16   | 1    | 0    | Ecuador   | **18** |
+| 3    | Miguel Ramos       | 19   | 15   | 4    | 0    | Perú      | **23** |
+| 4    | Gary Solyz         | 18   | 14   | 4    | 0    | Bolivia   | **22** |
+| 5    | Alex Piguave       | 19   | 17   | 2    | 0    | Ecuador   | **21** |
+| 6    | Roberth Ocampo     | 16   | 14   | 1    | 1    | Ecuador   | **20** |
 | 7    | Martin Ascarrunz   | 16   | 14   | 2    | 0    | Bolivia   | **18** |
 | 8    | Diego Pitizaca     | 16   | 15   | 1    | 0    | Ecuador   | **17** |
 | 9    | Dylan Reyes        | 6    | 2    | 4    | 0    | México    | **10** |
