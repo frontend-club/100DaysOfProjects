@@ -60,28 +60,28 @@ Lea las indicaciones para comenzar esta gran aventura:⚡
 
 ## Ranking
 
-Tabla de posiciones actualizada - lunes 29/01/2024.⚡
+Tabla de posiciones actualizada - martes 30/01/2024.⚡
 
 | #    | Nombre             | PC   | P1   | P2   | P3   | País      | Ptos   |
 | ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
-| 1    | Miguel Ramos       | 20   | 15   | 5    | 0    | Perú      | **25** |
+| 1    | Miguel Ramos       | 21   | 15   | 6    | 0    | Perú      | **27** |
 | 2    | Mario Espinosa     | 21   | 19   | 2    | 0    | México    | **23** |
 | 3    | Mariana T. Camacho | 20   | 17   | 3    | 0    | Venezuela | **23** |
 | 4    | Gary Solyz         | 19   | 15   | 4    | 0    | Bolivia   | **23** |
 | 5    | Alex Piguave       | 20   | 18   | 2    | 0    | Ecuador   | **22** |
-| 6    | Roberth Ocampo     | 16   | 14   | 1    | 1    | Ecuador   | **20** |
+| 6    | Roberth Ocampo     | 17   | 15   | 1    | 1    | Ecuador   | **21** |
 | 7    | Martin Ascarrunz   | 16   | 14   | 2    | 0    | Bolivia   | **18** |
 | 8    | Diego Pitizaca     | 16   | 15   | 1    | 0    | Ecuador   | **17** |
-| 9    | Erwin Leon         | 11   | 9    | 2    | 0    | Bolivia   | **13** |
+| 9    | Erwin Leon         | 11   | 6    | 5    | 0    | Bolivia   | **16** |
 | 10   | Esteban Suarez     | 9    | 7    | 2    | 0    | Bolivia   | **11** |
 | 11   | Dylan Reyes        | 6    | 2    | 4    | 0    | México    | **10** |
 | 12   | Missael Padilla    | 9    | 8    | 1    | 0    | México    | **10** |
 | 13   | Arnaldo Muñoz      | 10   | 10   | 0    | 0    | Bolivia   | **10** |
-| 14   | Sergio Hurtado     | 7    | 7    | 0    | 0    | Venezuela | **7**  |
-| 15   | Ricardo Mejía      | 7    | 7    | 0    | 0    | Colombia  | **7**  |
-| 16   | Dweb Code          | 6    | 6    | 0    | 0    | Perú      | **6**  |
-| 17   | Mati Giraudo       | 5    | 4    | 1    | 0    | Argentina | **6**  |
-| 18   | Van Tejerina       | 4    | 3    | 1    | 0    | Bolivia   | **5**  |
+| 14   | Van Tejerina       | 5    | 3    | 2    | 0    | Bolivia   | **7**  |
+| 15   | Sergio Hurtado     | 7    | 7    | 0    | 0    | Venezuela | **7**  |
+| 16   | Ricardo Mejía      | 7    | 7    | 0    | 0    | Colombia  | **7**  |
+| 17   | Dweb Code          | 6    | 6    | 0    | 0    | Perú      | **6**  |
+| 18   | Mati Giraudo       | 5    | 4    | 1    | 0    | Argentina | **6**  |
 | 19   | Eduardo Martínez   | 4    | 4    | 0    | 0    | Venezuela | **4**  |
 | 20   | José Toquica       | 4    | 4    | 0    | 0    | Colombia  | **4**  |
 | 21   | José Flores        | 1    | 1    | 0    | 0    | Bolivia   | **1**  |
