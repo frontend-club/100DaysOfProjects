@@ -60,20 +60,20 @@ Lea las indicaciones para comenzar esta gran aventura:⚡
 
 ## Ranking
 
-Tabla de posiciones actualizada - martes 30/01/2024.⚡
+Tabla de posiciones actualizada - jueves 01/02/2024.⚡
 
 | #    | Nombre             | PC   | P1   | P2   | P3   | País      | Ptos   |
 | ---- | ------------------ | ---- | ---- | ---- | ---- | --------- | ------ |
-| 1    | Miguel Ramos       | 21   | 15   | 6    | 0    | Perú      | **27** |
-| 2    | Mario Espinosa     | 21   | 19   | 2    | 0    | México    | **23** |
-| 3    | Mariana T. Camacho | 20   | 17   | 3    | 0    | Venezuela | **23** |
+| 1    | Mariana T. Camacho | 24   | 18   | 6    | 0    | Venezuela | **30** |
+| 2    | Miguel Ramos       | 22   | 15   | 7    | 0    | Perú      | **29** |
+| 3    | Mario Espinosa     | 23   | 20   | 3    | 0    | México    | **26** |
 | 4    | Gary Solyz         | 19   | 15   | 4    | 0    | Bolivia   | **23** |
 | 5    | Alex Piguave       | 20   | 18   | 2    | 0    | Ecuador   | **22** |
 | 6    | Roberth Ocampo     | 17   | 15   | 1    | 1    | Ecuador   | **21** |
-| 7    | Martin Ascarrunz   | 16   | 14   | 2    | 0    | Bolivia   | **18** |
-| 8    | Diego Pitizaca     | 16   | 15   | 1    | 0    | Ecuador   | **17** |
-| 9    | Erwin Leon         | 11   | 6    | 5    | 0    | Bolivia   | **16** |
-| 10   | Esteban Suarez     | 9    | 7    | 2    | 0    | Bolivia   | **11** |
+| 7    | Erwin León         | 12   | 6    | 6    | 0    | Bolivia   | **18** |
+| 8    | Martin Ascarrunz   | 16   | 14   | 2    | 0    | Bolivia   | **18** |
+| 9    | Diego Pitizaca     | 16   | 15   | 1    | 0    | Ecuador   | **17** |
+| 10   | Esteban Suarez     | 11   | 8    | 1    | 0    | Bolivia   | **14** |
 | 11   | Dylan Reyes        | 6    | 2    | 4    | 0    | México    | **10** |
 | 12   | Missael Padilla    | 9    | 8    | 1    | 0    | México    | **10** |
 | 13   | Arnaldo Muñoz      | 10   | 10   | 0    | 0    | Bolivia   | **10** |
